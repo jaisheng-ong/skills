@@ -2,6 +2,8 @@
 
 Skills I made for personal workflow
 
-- **[claude-to-cursor](./claude-to-cursor/SKILL.md)**: Convert YAML frontmatter to Cursor Rules (MDC files).
+- **[skill-installer](./skill-installer/SKILL.md)**: Audit and install skills downloaded from skill markets (from a folder you choose) into global or project Cursor skills.
 - **[skill-audit](./skill-audit/SKILL.md)**: Scan for vulnerabilities, severity, and security threats before any *skills* are used.
-  * Browser Tool: [SkillCheck by Repello](https://skills.repello.ai/)
+  * Industry-Standard Security Check Used: [OWASP Agentic Skills Top 10](https://owasp.org/projects/agentic-skills-top-10)
+
+> [Optional] Browser skills Security Check: [SkillCheck by Repello](https://skills.repello.ai/)
