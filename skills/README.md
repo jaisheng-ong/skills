@@ -6,4 +6,4 @@ Skills I made for personal workflow
 - **[skill-audit](./skill-audit/SKILL.md)**: Scan for vulnerabilities, severity, and security threats before any *skills* are used.
   * Industry-Standard Security Check Used: [OWASP Agentic Skills Top 10](https://owasp.org/projects/agentic-skills-top-10)
 
-> [Optional] Browser skills Security Check: [SkillCheck by Repello](https://skills.repello.ai/)
+> Browser skills Security Check: [SkillCheck by Repello](https://skills.repello.ai/)
